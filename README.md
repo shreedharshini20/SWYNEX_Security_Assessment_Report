@@ -1,0 +1,2 @@
+# SWYNEX_Security_Assessment_Report
+Security Fundamentals Assessment for SWYNEX Internship
